@@ -1,0 +1,50 @@
+.teamwrap {
+  background-image: url('./images/backgroundimg.jpg');
+  background-repeat: repeat-y;
+  height: 100vh;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 60px;
+  .teamDesc {
+    padding: 30px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    .teamDesc-containner {
+      width: 1200px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      flex-direction: column;
+      h2 {
+        color: #fff;
+        font-size: 28px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        margin: 0;
+        padding: 0;
+      }
+      p {
+        width: 900px;
+        color: #fff;
+        font-size: 16px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        margin: 0;
+        padding: 0;
+        line-height: 36px;
+        margin-top: 30px;
+      }
+      :nth-child(3) {
+        text-align: right;
+      }
+    }
+  }
+  .teamwrap {
+    .picDescContainner {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+    }
+  }
+}

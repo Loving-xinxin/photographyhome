@@ -1,0 +1,50 @@
+.store-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  padding-bottom: 33px;
+  .store-card {
+    margin-top: 30px;
+    width: 960px;
+    padding: 26px 0 26px 26px;
+    background-color: #090909;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    img {
+      display: block;
+      width: 150px;
+      height: 160px;
+      border: none;
+    }
+    .desc-wrap {
+      width: 760px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: column;
+      p {
+        text-align: center;
+        display: block;
+        width: 600px;
+        color: #fff;
+        font-family: PingFangSC-Medium, PingFang SC;
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+      }
+      p:nth-child(1) {
+        font-size: 24px;
+      }
+      p:nth-child(2) {
+        font-size: 18px;
+      }
+      p:nth-child(3) {
+        font-size: 16px;
+      }
+    }
+  }
+}

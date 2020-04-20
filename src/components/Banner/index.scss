@@ -1,0 +1,21 @@
+.slick-list {
+  height: 450px;
+  line-height: 450px;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 450px;
+  line-height: 450px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.ant-carousel .slick-slide h3 img {
+  display: inline-block;
+  width: 100%;
+  height: 450px;
+}

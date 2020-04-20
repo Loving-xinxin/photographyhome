@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.css';
+.App {
+  width: 100%;
+  background-image: url('./pages/Home//images/backgroundimg.jpg');
+  height: 100vh;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+
+.ant-dropdown-menu {
+  background-color: #1c1c21;
+}
+.ant-dropdown-menu-item,
+.ant-dropdown-menu-submenu-title > a {
+  color: rgba(255, 255, 255, 0.6);
+}
+.ant-dropdown-menu-item .ant-dropdown-menu-submenu-arrow-icon,
+.ant-dropdown-menu-submenu-title > a.ant-dropdown-menu-submenu-arrow-icon {
+  color: rgba(255, 255, 255, 0.6);
+}
+.ant-dropdown-menu-item:hover,
+.ant-dropdown-menu-submenu-title:hover {
+  background-color: #08084b;
+  color: #fff;
+}
+.ant-dropdown .ant-dropdown-placement-bottomLeft {
+  min-width: 95px;
+  left: 744px;
+  top: 60px;
+}
+.ant-dropdown-menu-item > a:hover,
+.ant-dropdown-menu-submenu-title > a:hover {
+  color: #fff;
+}
