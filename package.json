@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "css-loader": "^3.5.2"
+    "css-loader": "^3.5.2",
+    "gh-pages": "^2.2.0"
   }
 }
