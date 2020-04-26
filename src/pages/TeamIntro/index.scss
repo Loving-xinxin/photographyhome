@@ -39,12 +39,19 @@
       }
     }
   }
-  .teamwrap {
+  .picDesc {
+    display: flex;
+    justify-content: center;
     .picDescContainner {
       display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
+      flex-wrap: wrap;
+      width: 920px;
+      img {
+        display: inline-block;
+        width: 450px;
+        height: 598px;
+        margin: 0 10px 10px 0;
+      }
     }
   }
 }

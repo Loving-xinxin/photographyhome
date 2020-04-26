@@ -3,9 +3,6 @@ import { Button } from 'antd';
 import { NavLink } from 'react-router-dom';
 import Banner from '../../components/Banner';
 import PicCard from '../../components/picCard';
-import img_01 from './images/img_01.jpg';
-import img_02 from './images/img_02.jpg';
-import img_03 from './images/img_03.jpg';
 import './index.scss';
 class home extends Component {
   state = {};
@@ -16,36 +13,40 @@ class home extends Component {
         btnText: '立即浏览',
         btnLink: '/weddingFollow',
         width: ' 400px',
-        height: ' 550px',
-        bgcImg: img_02,
-        picWordHeight: '550px',
+        height: ' 266px',
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E5%A9%9A%E7%A4%BC%E8%B7%9F%E6%8B%8D.jpg',
+        picWordHeight: '266px',
       },
       {
         title: '婚纱照',
         btnText: '立即浏览',
         btnLink: '/weddingPic',
         width: ' 400px',
-        height: ' 550px',
-        bgcImg: img_01,
-        picWordHeight: '550px',
+        height: ' 266px',
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E5%A9%9A%E7%BA%B1.jpg',
+        picWordHeight: '266px',
       },
       {
         title: '写真',
         btnText: '立即浏览',
         btnLink: '/portrait',
         width: ' 400px',
-        height: ' 550px',
-        bgcImg: img_03,
-        picWordHeight: '550px',
+        height: ' 266px',
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E5%86%99%E7%9C%9F.jpg',
+        picWordHeight: '266px',
       },
       {
         title: '毕业季',
         btnText: '立即浏览',
         width: ' 400px',
-        height: ' 550px',
         btnLink: '/graduationTime',
-        bgcImg: img_02,
-        picWordHeight: '550px',
+        height: ' 266px',
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E6%AF%95%E4%B8%9A%E5%AD%A3.jpg',
+        picWordHeight: '266px',
       },
     ];
     const videoShow = [
@@ -55,7 +56,8 @@ class home extends Component {
         title: '婚礼',
         btnText: '立即浏览',
         btnLink: '/weddingVideo',
-        bgcImg: img_02,
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E5%A9%9A%E7%A4%BC%E8%B7%9F%E6%8B%8D.jpg',
         picWordHeight: '400px',
       },
       {
@@ -64,7 +66,8 @@ class home extends Component {
         title: '婚纱',
         btnText: '立即浏览',
         btnLink: '/weddingDressVideo',
-        bgcImg: img_01,
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E5%A9%9A%E7%BA%B1.jpg',
         picWordHeight: '400px',
       },
       {
@@ -73,7 +76,8 @@ class home extends Component {
         title: '写真',
         btnText: '立即浏览',
         btnLink: '/portraitVideo',
-        bgcImg: img_03,
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E5%86%99%E7%9C%9F.jpg',
         picWordHeight: '400px',
       },
       {
@@ -82,7 +86,8 @@ class home extends Component {
         title: '毕业季',
         btnText: '立即浏览',
         btnLink: '/graduationTimeVideo',
-        bgcImg: img_02,
+        bgcImg:
+          'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E9%A6%96%E9%A1%B5_%E6%AF%95%E4%B8%9A%E5%AD%A3.jpg',
         picWordHeight: '400px',
       },
     ];

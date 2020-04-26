@@ -9,7 +9,7 @@ const menu = (
     <SubMenu title={<Link to={`/weddingFollow`}>婚礼跟拍</Link>}>
       <NavLink to="/weddingFollow" className="submenu submenu1">
         <img
-          src="https://pic3.pocoimg.cn/image/poco/works/36/2020/0329/10/15854488091352054_200047878.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&"
+          src="https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB_%E5%A9%9A%E7%A4%BC%E8%B7%9F%E6%8B%8D.jpg"
           alt=""
         />
       </NavLink>
@@ -17,7 +17,7 @@ const menu = (
     <SubMenu title={<Link to={`/weddingPic`}>婚纱照</Link>}>
       <NavLink to="/weddingPic" className="submenu submenu2">
         <img
-          src="https://pic3.pocoimg.cn/image/poco/works/62/2020/0402/18/15858228552490092_201206925.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&"
+          src="https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB_%E5%A9%9A%E7%BA%B1.jpg"
           alt=""
         />
       </NavLink>
@@ -25,7 +25,7 @@ const menu = (
     <SubMenu title={<Link to={`/portrait`}>写真</Link>}>
       <NavLink to="/portrait" className="submenu submenu3">
         <img
-          src="https://pic3.pocoimg.cn/image/poco/works/36/2020/0329/10/15854488091352054_200047878.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&"
+          src="https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB_%E5%86%99%E7%9C%9F.jpg"
           alt=""
         />
       </NavLink>
@@ -33,7 +33,7 @@ const menu = (
     <SubMenu title={<Link to={`/graduationSeason`}>毕业季</Link>}>
       <NavLink to="/graduationSeason" className="submenu submenu4">
         <img
-          src="https://pic3.pocoimg.cn/image/poco/works/62/2020/0402/18/15858228552490092_201206925.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&"
+          src="https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB_%E6%AF%95%E4%B8%9A%E5%AD%A3.jpg"
           alt=""
         />
       </NavLink>
@@ -48,7 +48,7 @@ class nav extends Component {
           <h1>
             <NavLink to="/home">
               <img
-                src="https://open.youtu.qq.com/static/img/navibar_logo_youtuai.5ee86d5.png"
+                src="https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/logo.png"
                 alt=""
               />
             </NavLink>

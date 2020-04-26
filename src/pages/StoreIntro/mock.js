@@ -2,7 +2,7 @@ export const storeIntro = [
   {
     id: '1',
     imgSrc:
-      'https://pic3.pocoimg.cn/image/poco/works/36/2020/0329/10/15854488091352054_200047878.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&',
+      'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E5%BA%97%E9%9D%A2%E4%BB%8B%E7%BB%8D.jpg',
     title: '燕大形象店',
     location: '燕山大学西区广缘超市三楼',
     desc:
@@ -11,7 +11,7 @@ export const storeIntro = [
   {
     id: '2',
     imgSrc:
-      'https://pic3.pocoimg.cn/image/poco/works/62/2020/0402/18/15858228552490092_201206925.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&',
+      'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E5%BA%97%E9%9D%A2%E4%BB%8B%E7%BB%8D.jpg',
     title: '半岛写真馆',
     location: ' 海港区半岛书香9栋2单元104',
     desc: '个人写真、闺蜜写真、情侣写真、爱宠写真、全家福、企业团队形象照',
@@ -19,7 +19,7 @@ export const storeIntro = [
   {
     id: '3',
     imgSrc:
-      'https://pic3.pocoimg.cn/image/poco/works/36/2020/0329/10/15854488099096883_200047878.jpg?imageMogr2/auto-orient/thumbnail/x800/blur/1x0/quality/100&',
+      'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E5%BA%97%E9%9D%A2%E4%BB%8B%E7%BB%8D.jpg',
     title: '半岛礼服馆',
     location: '  海港区半岛书香9栋2单元3302',
     desc: '婚纱礼服租赁、售卖、后期制作、业务洽谈',

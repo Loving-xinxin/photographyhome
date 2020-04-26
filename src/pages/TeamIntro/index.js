@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PicCard from '../../components/picCard';
 import { teamList } from './mock';
 import './index.scss';
 export default class index extends Component {
@@ -20,8 +19,10 @@ export default class index extends Component {
           </div>
         </div>
         <div className="picDesc">
-          <div className="picDescContainner">
-            <PicCard picCard={teamList} />
+          <div className="picDescContainner" key={index}>
+            {teamList.map((item, index) => (
+              <img src={item.img} alt="" />
+            ))}
           </div>
         </div>
       </div>
