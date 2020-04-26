@@ -17,6 +17,6 @@ export const picShow = [
   {
     id:'4',
     img:'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E8%93%9D%E5%BA%95.jpg'
-  }
+  },
 
 ];
