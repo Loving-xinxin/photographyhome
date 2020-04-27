@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/photographyhome/static/css/main.a235850d.chunk.css",
-    "main.js": "/photographyhome/static/js/main.bf4aba97.chunk.js",
-    "main.js.map": "/photographyhome/static/js/main.bf4aba97.chunk.js.map",
-    "runtime-main.js": "/photographyhome/static/js/runtime-main.7fffef49.js",
-    "runtime-main.js.map": "/photographyhome/static/js/runtime-main.7fffef49.js.map",
-    "static/css/2.b4e21e7f.chunk.css": "/photographyhome/static/css/2.b4e21e7f.chunk.css",
-    "static/js/2.c1def676.chunk.js": "/photographyhome/static/js/2.c1def676.chunk.js",
-    "static/js/2.c1def676.chunk.js.map": "/photographyhome/static/js/2.c1def676.chunk.js.map",
-    "index.html": "/photographyhome/index.html",
-    "precache-manifest.d9c9fdef7eb6b91fe69335dc071a65e9.js": "/photographyhome/precache-manifest.d9c9fdef7eb6b91fe69335dc071a65e9.js",
-    "service-worker.js": "/photographyhome/service-worker.js",
-    "static/css/2.b4e21e7f.chunk.css.map": "/photographyhome/static/css/2.b4e21e7f.chunk.css.map",
-    "static/css/main.a235850d.chunk.css.map": "/photographyhome/static/css/main.a235850d.chunk.css.map",
-    "static/js/2.c1def676.chunk.js.LICENSE.txt": "/photographyhome/static/js/2.c1def676.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/photographyhome/static/media/backgroundimg.dc1dcd10.jpg"
+    "main.css": "/photographyhome/home/static/css/main.979aba01.chunk.css",
+    "main.js": "/photographyhome/home/static/js/main.62245b0a.chunk.js",
+    "main.js.map": "/photographyhome/home/static/js/main.62245b0a.chunk.js.map",
+    "runtime-main.js": "/photographyhome/home/static/js/runtime-main.97226731.js",
+    "runtime-main.js.map": "/photographyhome/home/static/js/runtime-main.97226731.js.map",
+    "static/css/2.b4e21e7f.chunk.css": "/photographyhome/home/static/css/2.b4e21e7f.chunk.css",
+    "static/js/2.e63fea6b.chunk.js": "/photographyhome/home/static/js/2.e63fea6b.chunk.js",
+    "static/js/2.e63fea6b.chunk.js.map": "/photographyhome/home/static/js/2.e63fea6b.chunk.js.map",
+    "index.html": "/photographyhome/home/index.html",
+    "precache-manifest.06d8f985c5694c0aecbb57312d4eb4dd.js": "/photographyhome/home/precache-manifest.06d8f985c5694c0aecbb57312d4eb4dd.js",
+    "service-worker.js": "/photographyhome/home/service-worker.js",
+    "static/css/2.b4e21e7f.chunk.css.map": "/photographyhome/home/static/css/2.b4e21e7f.chunk.css.map",
+    "static/css/main.979aba01.chunk.css.map": "/photographyhome/home/static/css/main.979aba01.chunk.css.map",
+    "static/js/2.e63fea6b.chunk.js.LICENSE.txt": "/photographyhome/home/static/js/2.e63fea6b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/photographyhome/home/static/media/backgroundimg.dc1dcd10.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fffef49.js",
+    "static/js/runtime-main.97226731.js",
     "static/css/2.b4e21e7f.chunk.css",
-    "static/js/2.c1def676.chunk.js",
-    "static/css/main.a235850d.chunk.css",
-    "static/js/main.bf4aba97.chunk.js"
+    "static/js/2.e63fea6b.chunk.js",
+    "static/css/main.979aba01.chunk.css",
+    "static/js/main.62245b0a.chunk.js"
   ]
 }
