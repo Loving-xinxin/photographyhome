@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8e184b450d9f5ee30070df01858cd24",
+    "revision": "f416a7be7a23b85c709c7d9f8a547062",
     "url": "/photographyhome/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/photographyhome/static/css/2.b4e21e7f.chunk.css"
   },
   {
-    "revision": "db33788deaf1cc4d0710",
-    "url": "/photographyhome/static/css/main.85e17e29.chunk.css"
+    "revision": "b6bb792317fd392f3d3f",
+    "url": "/photographyhome/static/css/main.a235850d.chunk.css"
   },
   {
     "revision": "e20fc0bef0e6aefae53f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/photographyhome/static/js/2.c1def676.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db33788deaf1cc4d0710",
-    "url": "/photographyhome/static/js/main.6eb8a151.chunk.js"
+    "revision": "b6bb792317fd392f3d3f",
+    "url": "/photographyhome/static/js/main.bf4aba97.chunk.js"
   },
   {
     "revision": "478d45f4410c9902beed",
@@ -30,9 +30,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc1dcd1090b78a59f43e49cc2d5a5b7e",
     "url": "/photographyhome/static/media/backgroundimg.dc1dcd10.jpg"
-  },
-  {
-    "revision": "0699c9d6f2a0c85b94ca7391807da4b2",
-    "url": "/photographyhome/static/media/banner3.0699c9d6.jpg"
   }
 ]);
