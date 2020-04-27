@@ -21,5 +21,9 @@ export const picShow = [
 {
   id:'5',
   img:'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E8%93%9D%E5%BA%952.jpg'
+},
+{
+  id:'6',
+  img:'https://loving-xinxin.coding.net/p/sheyingtupian/d/sheyingtupian/git/raw/master/%E8%93%9D%E5%BA%95.jpg'
 }
 ];
